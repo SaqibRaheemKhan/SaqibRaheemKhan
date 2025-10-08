@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Saqib Rahim
+# 👋 Hi, I'm Saqib Raheem
 
 ### 💻 Cybersecurity Analyst | Penetration Tester | Software Engineer | Future Tech Entrepreneur
 
