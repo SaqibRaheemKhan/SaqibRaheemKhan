@@ -9,91 +9,114 @@ I’m a passionate **Cybersecurity Analyst and Software Engineering student at U
 
 ## 🚀 About Me
 
-- 🎯 **Current Role:** Security Analyst at **Ufone**
-- 🧠 **Student:** Software Engineering, **UET Mardan**
-- 🧩 **Specialization:** Ethical Hacking, Network Defense, Digital Forensics, and Secure System Design
-- 🌱 **Currently Learning:** Advanced Penetration Testing, AI for Cybersecurity, and Secure Software Development
-- 💡 **Goal:** To build my own cybersecurity and tech startups contributing to digital safety and innovation
-- ⚡ **Fun Fact:** I love solving complex security challenges and exploring how AI can transform cybersecurity.
+# 👋 Hi, I'm Saqib Raheem  
+
+### 💻 Cybersecurity Analyst | Penetration Tester | Software Engineer  
+
+I am deeply passionate about **Computer Science, Software Engineering, and Cybersecurity**.  
+With a solid academic foundation and a diverse range of certifications, I am committed to continuously expanding my knowledge and contributing to the evolving cybersecurity landscape.  
 
 ---
 
-## 🧰 Skills & Expertise
+## 🎓 Academic Background
+
+- 🏫 **Matriculation in Computer Science** — *GSHSHS School No.1, Peshawar City*  
+  **Marks:** 97.8% — *Top 5 Position in BISE Peshawar Board*  
+- 🎓 **Intermediate in Computer Science (2021–2023)** — *Peshawar Model Degree College Boys-1*  
+  **Marks:** 86.7%  
+- 💻 **Current:** Software Engineering Student — *University of Engineering & Technology (UET) Mardan*
+
+---
+
+## 📚 Diplomas & Technical Training
+
+- 🎓 **Diploma in Information Technology (DIT)** — *KPITB*  
+- 💠 **Certificate in Information Technology (CIT)** — *Microsoft Coaching Academy*  
+- 💼 **Technical Domain Certification (3 Months)** — *National Freelance Training Program (NFTP)*  
+  - Focused on: Web Development, WordPress, and Technical Skills  
+- 🧠 **Certified Ethical Hacker (CEH) Training (3 Months)** — *National Center for Cyber Security (NCCS), UET Peshawar*  
+  - Hands-on training in Ethical Hacking, Penetration Testing, and Cybersecurity Best Practices  
+
+---
+
+## 🛡️ Certifications
+
+- **Ethical Hacking Essentials (EHE)** — *EC-Council*  
+- **Network Defense Essentials (NDE)** — *EC-Council*  
+- **Digital Forensics Essentials (DFE)** — *EC-Council*  
+- **Introduction to Cybersecurity** — *HP*  
+- **Introduction to Cybersecurity** — *Simplilearn Skillup*  
+- **Ethical Hacking 101** — *Simplilearn Skillup*  
+- **Career Essentials in Cybersecurity** — *Microsoft & LinkedIn*  
+- **Cybersecurity Awareness** — *Various Platforms*  
+- **Cybersecurity Terminologies** — *Project Management CPE QAS*  
+
+---
+
+## 🧩 Skills & Expertise
 
 ### 🛡 Cybersecurity
-- Penetration Testing (Web, Network, Mobile)
-- Vulnerability Assessment & Reporting
-- Firewall, IDS/IPS, and Honeypot Configuration
-- Digital Forensics & Incident Response
-- Threat Intelligence and OSINT
+- Penetration Testing (Web, Network, and Application Security)  
+- Vulnerability Assessment & Exploit Development  
+- Firewall, IDS/IPS, and Honeypot Configuration  
+- Digital Forensics & Incident Response  
+- Threat Intelligence and OSINT Analysis  
 
-### 💻 Software & Development
-- Python, C++, Java, HTML/CSS, JavaScript
-- Secure Coding & API Security
-- System Design & Automation Scripts
-- Database Management (MySQL, SQLite)
+### 💻 Software Development
+- Programming: **Python, C++, Java, HTML, CSS, JavaScript**  
+- Secure Coding & API Security  
+- Web Development (Static & WordPress)  
+- Database Management: **MySQL, SQLite**  
 
 ### ⚙️ Tools & Platforms
-- **Security Tools:** Burp Suite, Nmap, Metasploit, Wireshark, Hydra, Nessus, Maltego  
-- **Development:** VS Code, Git, Postman, Docker  
-- **Operating Systems:** Kali Linux, Ubuntu, Windows Server
+- **Security Tools:** Nmap, Burp Suite, Metasploit, Wireshark, Nessus, Hydra, Maltego  
+- **Development Tools:** VS Code, Git, Docker, Postman  
+- **Operating Systems:** Kali Linux, Ubuntu, Windows Server  
 
 ---
 
-## 🎓 Certifications & Training
+## 🧠 Projects & Research
 
-- 🎖 **Google Cybersecurity Professional Certificate**  
-- 🎖 **EC-Council Essentials Series:**  
-  - Ethical Hacking Essentials (EHE)  
-  - Network Defense Essentials (NDE)  
-  - Digital Forensics Essentials (DFE)  
-- 🎖 **CEH (Certified Ethical Hacker) Training — NCCS UET Peshawar**  
-- 🎖 **Diploma in Information Technology — KPITB**  
-- 🎖 **Freelancing Training — NFTP**
+- 🔐 **University Security Assessment (UET Mardan):**  
+  Conducting security audits to identify and mitigate vulnerabilities in university systems.  
 
----
-
-## 🧩 Current Projects
-
-- 🔐 **University Security Assessment Project (UET Mardan):**  
-  Identifying and mitigating vulnerabilities in campus digital systems.
-  
 - 📱 **OTP Bypass Vulnerability Research (Jazz Network):**  
-  Investigating authentication flaws in telecom-based OTP systems.
+  Researching authentication weaknesses and proposing improved security mechanisms.  
 
-- 🤖 **AI for Threat Detection:**  
-  Experimenting with ML-based intrusion detection models.
+- 🤖 **AI in Cybersecurity:**  
+  Exploring machine learning applications for intrusion detection and threat analysis.  
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 Matric: **97.8% (Top 5 in BISE Peshawar)**  
-- 🥈 Intermediate: **86.7%**  
-- 💼 Recognized for academic excellence and contribution to cybersecurity initiatives.
+- 🥇 **Matric:** 97.8% — *Top 5 in BISE Peshawar*  
+- 🥈 **Intermediate:** 86.7% — *Peshawar Model Degree College Boys-1*  
+- 🧠 Recognized for **academic excellence** and **cybersecurity expertise**
 
 ---
 
-## 🌐 Connect With Me
+## 🌍 Connect With Me
 
-- 📧 **Email:** saqibrahim@example.com *(replace with your email)*  
-- 💼 **LinkedIn:** [linkedin.com/in/saqibrahim](https://linkedin.com/in/saqibrahim)  
-- 🐦 **Twitter/X:** [twitter.com/saqibrahim](https://twitter.com/saqibrahim)  
-- 🌍 **Portfolio:** [saqibrahim.github.io](https://saqibrahim.github.io)
+- 📧 **Email:** saqibraheem@example.com *(replace with your email)*  
+- 💼 **LinkedIn:** [linkedin.com/in/saqibraheem](https://linkedin.com/in/saqibraheem)  
+- 🐦 **Twitter/X:** [twitter.com/saqibraheem](https://twitter.com/saqibraheem)  
+- 🌐 **Portfolio:** [saqibraheem.github.io](https://saqibraheem.github.io)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Saqib's GitHub stats](https://github-readme-stats.vercel.app/api?username=saqibrahim&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saqibrahim&layout=compact&theme=tokyonight)
+![Saqib's GitHub stats](https://github-readme-stats.vercel.app/api?username=saqibraheem&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saqibraheem&layout=compact&theme=tokyonight)
 
 ---
 
-## 💬 Quote I Live By
-> “Cybersecurity is not just about defense — it’s about understanding how systems fail, and making them smarter, stronger, and safer.”
+## 💬 Personal Quote
+> “Cybersecurity isn’t just about defending systems — it’s about understanding them deeply enough to make them unbreakable.”
 
 ---
 
-⭐ **If you like my projects, consider giving them a star!**  
-Let’s connect, collaborate, and build something amazing together 🚀
+⭐ **Thank you for visiting my GitHub!**  
+Feel free to explore my repositories, contribute, or connect — let’s make the digital world safer together 🚀
+
